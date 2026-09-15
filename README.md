@@ -1,6 +1,5 @@
-Claro. Abaixo está um `README.md` com uma cara mais profissional, documentando arquitetura, instalação, endpoints, regras de negócio e fluxo do sistema.
 
-````md
+
 # 🚗 Fleet Management API
 
 API REST para gerenciamento de uma frota de veículos, permitindo cadastrar carros, controlar aluguéis, finalizar contratos e verificar automaticamente veículos que precisam de manutenção.
